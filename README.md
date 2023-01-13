@@ -1,5 +1,5 @@
 # NeuralNetworks
-Project from summer 2017. These programs are part of step, a bigger project that I am working together with @lemons2lemonade.
+Project from summer 2017. First experience with neural networks. Self-taught.
 
 These neural nets all use different models to determine if given sentences are declarative "-1" or imperative "1."
 
